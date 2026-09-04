@@ -100,10 +100,6 @@ I am developing strong full-stack and mobile engineering foundations while progr
 ## Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gumelarakhirul&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Gumelar Akhirul Ramadhan contribution activity graph">
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gumelarakhirul/gumelarakhirul/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gumelarakhirul/gumelarakhirul/output/github-contribution-grid-snake.svg">
