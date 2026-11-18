@@ -89,6 +89,7 @@ I am developing strong full-stack and mobile engineering foundations while progr
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Nov 17, 2026: pushed 1 commit to [gumelarakhirul/nusantaratv-bigdata-pipeline](https://github.com/gumelarakhirul/nusantaratv-bigdata-pipeline).
 - Nov 16, 2026: pushed 1 commit to [gumelarakhirul/nusantaratv-bigdata-pipeline](https://github.com/gumelarakhirul/nusantaratv-bigdata-pipeline).
 - Nov 13, 2026: pushed 1 commit to [gumelarakhirul/nusantaratv-bigdata-pipeline](https://github.com/gumelarakhirul/nusantaratv-bigdata-pipeline).
 - Nov 11, 2026: pushed 1 commit to [gumelarakhirul/nusantaratv-bigdata-pipeline](https://github.com/gumelarakhirul/nusantaratv-bigdata-pipeline).
